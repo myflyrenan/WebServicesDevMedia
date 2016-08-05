@@ -1,0 +1,13 @@
+package br.com.devmedia.ws.soap.example;
+
+import javax.jws.WebService;
+
+@WebService
+public class MyFirstSOAPWebService {
+
+	public String ping (String nome){
+		return "Pong"+nome;
+		
+	}
+	
+}

@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+C:\Users\renan.moura\WebServices\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1724648835.index
+2840408664.index
+2161128198.index
+117527412.index
+2491255465.index
+984798196.index
